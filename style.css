@@ -1,0 +1,9 @@
+.todoDone {
+	text-decoration: line-through;
+	font-style: italic;
+	color: gray;
+}
+
+.floatRight {
+	float: right;
+}
